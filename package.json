@@ -1,5 +1,5 @@
 {
-  "name": "with-socket.io",
+  "name": "next-socket-styled-jwt",
   "version": "1.0.0",
   "dependencies": {
     "body-parser": "^1.18.3",
