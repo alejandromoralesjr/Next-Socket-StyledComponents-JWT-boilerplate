@@ -2,6 +2,7 @@
   "name": "next-socket-styled-jwt",
   "version": "1.0.0",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
     "body-parser": "^1.18.3",
     "express": "^4.15.2",
     "isomorphic-unfetch": "^2.0.0",
